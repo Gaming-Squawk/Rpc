@@ -24,7 +24,7 @@ function reloadPresence(client) {
             .setDetails()
             .setState()
             .setStartTimestamp(global.startTime)
-            .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1136290202118279270/1277878748015886440/WhatsApp_Image_2024-08-27_at_11.55.27_9bd04763.jpg?ex=66d2b953&is=66d167d3&hm=686704e81f0b8d2e3f0e9689408d6ea8fd9796cb2de0a98f70bc0fd3d673d0e5&")
+            .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1136290202118279270/1277878748015886440/WhatsApp_Image_2024-08-27_at_11.55.27_9bd04763.jpg?ex=66d55c53&is=66d40ad3&hm=d4999dab27d9c9a07b0fad0e1f551a3e249eab2e5928eea348da46a11fd1fca9&")
             .setAssetsLargeText("Music"), // <-- Added missing comma here
 
         new discord.RichPresence()
@@ -34,7 +34,7 @@ function reloadPresence(client) {
             .setDetails()
             .setState()
             .setStartTimestamp(global.startTime)
-            .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1136290202118279270/1277879716442804234/WhatsApp_Image_2024-08-27_at_11.59.31_cdde403e.jpg?ex=66d2ba3a&is=66d168ba&hm=5e2647ea13b4dcd358677d17a9577739d6dc315234cbd0cf8acd056689049ea1&")
+            .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1136290202118279270/1277879716442804234/WhatsApp_Image_2024-08-27_at_11.59.31_cdde403e.jpg?ex=66d55d3a&is=66d40bba&hm=71ff16a094d8359e0b5aa59ba20bbd245dec6c88488edabd0e80f219df55d9b7&")
             .setAssetsLargeText("Streams")
     ];
 
